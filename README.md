@@ -49,9 +49,9 @@ At the moment selection was tested for Wider dataset. Script to select and save 
   
 [ssd_resnet_50_fpn_coco](http://download.tensorflow.org/models/object_detection/ssd_resnet50_v1_fpn_shared_box_predictor_640x640_coco14_sync_2018_07_03.tar.gz) was chosen as a baseline model, it was trained on a part of Wider validation dataset with the scales similar to target dataset.
 
-|model| speed on 1050Ti |
+|model| speed on CPU |
 |--|--|
-| ssd_resnet_50_fpn |  |
+| ssd_resnet_50_fpn | 1.906570651170706 2.242779171540924 |
 
 
 
