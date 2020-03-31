@@ -1,0 +1,21 @@
+# compiled files
+__pycache__/
+
+
+# ide files
+.vscode/
+
+# virtualenv
+venv/
+
+
+# jupyter
+.ipynb_checkpoints/
+
+# project files
+*.pb
+*.jpg
+*.png
+*.txt
+*json
+*.m
